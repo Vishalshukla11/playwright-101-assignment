@@ -1,0 +1,13 @@
+{
+  "name": "playwright-testmu-101",
+  "version": "1.0.0",
+  "description": "TestMu AI Playwright 101 Certification Assignment",
+  "scripts": {
+    "test": "npx playwright test",
+    "test:report": "npx playwright show-report"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.47.0",
+    "typescript": "^5.5.0"
+  }
+}
